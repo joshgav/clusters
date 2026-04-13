@@ -1,0 +1,7 @@
+*.env
+.kube
+.ssh
+_workdir
+/temp
+scratch.sh
+key.json
